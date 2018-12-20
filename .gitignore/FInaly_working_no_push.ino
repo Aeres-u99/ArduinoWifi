@@ -3,7 +3,7 @@
 #define TX 11
 String AP = "M7";       // CHANGE ME
 String PASS = "12345678"; // CHANGE ME
-String API = "8CI4162Y3W43KGEE";   // CHANGE ME
+String API = "8GEE";   // CHANGE ME
 String HOST = "api.thingspeak.com";
 String PORT = "80";
 String field = "field1";
