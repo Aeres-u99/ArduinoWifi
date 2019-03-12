@@ -1,9 +1,9 @@
 #include <SoftwareSerial.h>
 #define RX 10
 #define TX 11
-String AP = "Aeres";       // CHANGE ME
-String PASS = "FuCky0u@$$#0le"; // CHANGE ME
-String API = "8CI4162Y3W43KGEE";   // CHANGE ME
+String AP = "";       // CHANGE ME
+String PASS = ""; // CHANGE ME
+String API = "";   // CHANGE ME
 String HOST = "api.thingspeak.com";
 String PORT = "80";
 String field = "field1";
